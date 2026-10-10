@@ -1,7 +1,5 @@
 # Vinay Batra
 
-I work one-on-one with local businesses to build custom websites and tools, and I build my own products. Greater Philadelphia.
-
 **For local businesses**
 - [Moreco Properties](https://morecoproperties.com): a rental listings site with an AI renter assistant, plus an owner dashboard whose rent ledger matches her books to the cent.
 - [One South Sycamore](https://onesouthsycamore.com): a website for a one-man flower shop in Newtown, PA. No prices, no cart, just his work and a way to call or text.
