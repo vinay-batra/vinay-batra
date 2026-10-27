@@ -4,7 +4,7 @@ Founder of Corvo, ChapterPrep & Lark. I partner with local businesses to design 
 
 **My products**
 - [Corvo](https://corvo.capital): a free AI portfolio advisor. Next.js front end, FastAPI risk engine.
-- [ChapterPrep](https://chapterprep.com): free competition prep used by 350+ FBLA students.
+- [ChapterPrep](https://chapterprep.com): free competition prep for FBLA, DECA and HOSA, used by 350+ students. Practice tests from each event's official outline and an AI judge on the event's own rating sheet.
 - [Lark](https://lark.coach): a guitar tutor that listens. Real-time note and chord detection in the browser.
 
 **For local businesses**
