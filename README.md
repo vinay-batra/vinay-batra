@@ -1,10 +1,10 @@
 # Vinay Batra
 
-Founder of Corvo, ChapterPrep & Lark. I partner with local businesses to design AI-powered solutions that help them run better.
+Founder of Corvo, ChapterPrep & Lark (1,200+ users between them). I partner with local businesses to design AI-powered solutions that help them run better.
 
 **My products**
 - [Corvo](https://corvo.capital): a free AI portfolio advisor. Next.js front end, FastAPI risk engine.
-- [ChapterPrep](https://chapterprep.com): free competition prep for FBLA, DECA and HOSA, used by 350+ students. Practice tests from each event's official outline and an AI judge on the event's own rating sheet.
+- [ChapterPrep](https://chapterprep.com): free competition prep for FBLA, DECA, HOSA, FFA and FCCLA, used by 1,000+ students and advisors. Practice tests from each event's official outline and an AI judge that scores you on a rubric for your event.
 - [Lark](https://lark.coach): a guitar tutor that listens. Real-time note and chord detection in the browser.
 
 **For local businesses**
